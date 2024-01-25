@@ -1,0 +1,33 @@
+.service {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 150px;
+    background-color: #EEFEFF;
+    border-radius: 15px;
+    padding: 10%;
+    margin: 30px;
+    margin-top: -40px;
+}
+
+.service-item {
+    margin-top: -70px;
+    color: white;
+    font-weight: bold;
+    justify-content: space-between;
+    width: 15rem;
+    background-color: #1CBBC7;
+    height: 15rem;
+    text-align: center;
+    font-size: 2rem;
+}
+
+h1 {
+    font-weight: lighter;
+}
+
+img {
+    padding-top: 20px;
+    width: 14rem;
+    height: 8rem;
+    border-radius: 15px;
+}

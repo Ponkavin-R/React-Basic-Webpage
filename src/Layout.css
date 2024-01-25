@@ -1,0 +1,31 @@
+nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #EEFEFF;
+    height: 50px;
+    text-align: center;
+
+
+}
+
+li {
+    color: white;
+    font-size: 2rem;
+    background-color: #EEFEFF;
+
+}
+
+Link {
+    text-decoration: solid;
+    color: aquamarine;
+}
+
+.menu {
+    text-decoration: solid;
+    color: black;
+}
+
+nav {
+    border-bottom: 5px solid #1CBBC7;
+}
